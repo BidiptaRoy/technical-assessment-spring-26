@@ -28,3 +28,5 @@ The project went well over the past four days and with the help of LLMs. The par
 2. **Was this technical assessment what you expected? If you had another two weeks to work on it, what would you add or change?**
 
 The technical assessment was longer than I expected, and would not have been timely possible without some help from LLMs like chatgpt. If I were to have another two weeks to work on it, I would add features like flashcard mode (to help users study), BU login infomration to make this only avaiable to BU students, instructional videos from myself included in the web app demonstrating each move, as well as an interactive map that shows all Jiu jitsu places in the Boston area. 
+
+Link to the project: https://bjj-trainer-j37ht700o-bidipta-roys-projects.vercel.app/
